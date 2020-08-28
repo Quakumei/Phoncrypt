@@ -1,0 +1,9 @@
+https://www.win-rar.com/ 14/2/2020
+https://www.7-zip.org/ 14/2/2020
+https://crypto.stackexchange.com/questions/3791/what-is-safer-zipcrypto-or-aes-256/3792#3792 14/2/2020
+http://infozip.sourceforge.net/FAQ.html#crypto /14/2/2020
+ftp.gnome.org/mirror/archive/ftp.sunet.se/pub/security/docs/crypt/ripem.msu.edu/kocher-pkzip-attack.txt.gz 14/2/2020
+https://book.cyberyozh.com/ru/perehod-k-ispolzovaniyu-kriptokontejnerov/ 14/2/2020
+https://veracrypt.codeplex.com/wikipage?title=Hash%20Algorithms 14/2/2020
+http://truecrypt.sourceforge.net/ 14/2/2020
+https://www.veracrypt.fr/en/Documentation.html 14/2/2020
